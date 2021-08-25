@@ -1,0 +1,16 @@
+body{
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card{
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
+.card:hover{
+    background-color: lavender;
+    color: black;
+    box-shadow: 5px 5px 10px grey;
+    transition: 0.5s;
+}
